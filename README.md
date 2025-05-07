@@ -1,6 +1,6 @@
 # Generative AI in Cybersecurity
 
-*A hands‑on curriculum for researchers, engineers, and security professionals who want to understand, adapt, and deploy large‑language‑model (LLM) technology in modern cyber‑defense operations.*
+A hands‑on course for researchers, engineers, and security professionals who want to understand, adapt, and deploy large‑language‑model (LLM) technology in modern cyber‑defense operations.
 
 ---
 
@@ -27,7 +27,7 @@ Each topic is paired with runnable notebooks or scripts so you can replicate eve
 
 ## Course Structure
 
-### 01-architecture and pre-training
+### 01-architecture & pre-training
 
 * `LLM_pretraining.pdf` – Transformer anatomy, training objectives, compute/\$\$ budgeting.
 * `Transformers/`
