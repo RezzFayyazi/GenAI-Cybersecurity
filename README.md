@@ -74,6 +74,12 @@ Each topic is paired with runnable notebooks or scripts so you can replicate eve
 
 ---
 
+## Acknowledgments
+
+This material is based upon work supported by the National Science Foundation under Grant #2344237 and #2502341.
+
+---
+
 ##  © License
 
 * Code: MIT License (see `LICENSE`)
